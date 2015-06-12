@@ -1,5 +1,5 @@
 Summary:	DocBook XSL NS (namespaced) Stylesheets
-Summary(pl.UTF-8):	Arkusze stylistyczne XSL NS (z przestrzeniami nazw) dla DocBooka
+Summary(pl.UTF-8):	Arkusze stylów XSL NS (z przestrzeniami nazw) dla DocBooka
 Name:		docbook-style-xsl-ns
 Version:	1.78.1
 Release:	1
@@ -30,7 +30,7 @@ the same as the concurrent stylesheet release except that the
 templates match on elements in the DocBook namespace.
 
 %description -l pl.UTF-8
-Ten pakiet zawiera wydanie arkuszy stylistycznych XSL do przetwarzania
+Ten pakiet zawiera wydanie arkuszy stylów XSL do przetwarzania
 dokuemntów DocBooka z przestrzeniami nazw (DocBook 5 lub późniejszy).
 Arkusze są takie same jak zwykłe wydanie z tą różnicą, że szablony są
 dopasowywane po elementach w przestrzeni nazw DocBooka.
