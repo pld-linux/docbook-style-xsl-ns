@@ -1,12 +1,12 @@
 Summary:	DocBook XSL NS (namespaced) Stylesheets
 Summary(pl.UTF-8):	Arkusze stylów XSL NS (z przestrzeniami nazw) dla DocBooka
 Name:		docbook-style-xsl-ns
-Version:	1.78.1
+Version:	1.79.0
 Release:	1
 License:	(C) 1997, 1998 Norman Walsh (Free)
 Group:		Applications/Publishing/XML
 Source0:	http://downloads.sourceforge.net/docbook/docbook-xsl-ns-%{version}.tar.bz2
-# Source0-md5:	4344c246f5fa2eee008558b963291103
+# Source0-md5:	bd8220801f87d62053940501ffe9ea80
 URL:		http://docbook.sourceforge.net/projects/xsl/index.html
 BuildRequires:	libxml2-progs
 BuildRequires:	unzip
